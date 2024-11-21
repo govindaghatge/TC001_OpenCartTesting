@@ -1,0 +1,12 @@
+E:\Framework2\TC001_OpenCartTesting\src\test\java\pageObjects\BasePage.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\pageObjects\HomePage.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\pageObjects\LoginPage.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\pageObjects\MyaccountPage.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\pageObjects\RegistrationPage.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\testBase\TestBase.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\testCase\TC001_RegistrationTesting.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\testCase\TC002_LoginTestingDDT.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\testCase\TC003_LoginTesting.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\Utilities\DataProviders.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\Utilities\ExcelUtility.java
+E:\Framework2\TC001_OpenCartTesting\src\test\java\Utilities\ExtentReportManager.java

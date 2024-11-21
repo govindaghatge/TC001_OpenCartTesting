@@ -1,0 +1,40 @@
+2024-11-20 17:16:00 DEBUG TestNG:82 - suiteXmlPath: "E:\Framework2\TC001_OpenCartTesting\master.xml"
+2024-11-20 17:16:01 INFO  Utils:112 - [TestNG] Running:
+  E:\Framework2\TC001_OpenCartTesting\master.xml
+
+2024-11-20 17:19:37 DEBUG TestNG:82 - suiteXmlPath: "E:\Framework2\TC001_OpenCartTesting\master.xml"
+2024-11-20 17:19:37 INFO  Utils:112 - [TestNG] Running:
+  E:\Framework2\TC001_OpenCartTesting\master.xml
+
+2024-11-20 17:22:37 DEBUG TestNG:82 - suiteXmlPath: "E:\Framework2\TC001_OpenCartTesting\master.xml"
+2024-11-20 17:22:37 INFO  Utils:112 - [TestNG] Running:
+  E:\Framework2\TC001_OpenCartTesting\master.xml
+
+2024-11-20 17:26:51 DEBUG TestNG:82 - suiteXmlPath: "E:\Framework2\TC001_OpenCartTesting\master.xml"
+2024-11-20 17:26:52 INFO  Utils:112 - [TestNG] Running:
+  E:\Framework2\TC001_OpenCartTesting\master.xml
+
+2024-11-20 17:27:10 INFO  TC001_RegistrationTesting:16 - ******Starting TC001_OpenCartApplication******
+2024-11-20 17:27:10 INFO  TC001_RegistrationTesting:22 - Clicked on Account link
+2024-11-20 17:27:11 INFO  TC001_RegistrationTesting:25 - Clicked on Register link
+2024-11-20 17:27:11 INFO  TC001_RegistrationTesting:29 - Providing customer details...
+2024-11-20 17:27:12 INFO  TC001_RegistrationTesting:43 - Validating expected message
+2024-11-20 17:27:12 INFO  TC001_RegistrationTesting:63 - ****** Finished TC001_OpenCartApplication ******
+2024-11-20 17:27:18 INFO  TC003_LoginTesting:54 - **** Finished TC_003_LoginDDT *****
+2024-11-20 17:33:15 DEBUG TestNG:82 - suiteXmlPath: "E:\Framework2\TC001_OpenCartTesting\master.xml"
+2024-11-20 17:33:20 INFO  TC001_RegistrationTesting:16 - ******Starting TC001_OpenCartApplication******
+2024-11-20 17:33:20 INFO  TC001_RegistrationTesting:22 - Clicked on Account link
+2024-11-20 17:33:21 INFO  TC001_RegistrationTesting:25 - Clicked on Register link
+2024-11-20 17:33:21 INFO  TC001_RegistrationTesting:29 - Providing customer details...
+2024-11-20 17:33:22 INFO  TC001_RegistrationTesting:43 - Validating expected message
+2024-11-20 17:33:22 INFO  TC001_RegistrationTesting:63 - ****** Finished TC001_OpenCartApplication ******
+2024-11-20 17:33:29 INFO  TC003_LoginTesting:54 - **** Finished TC_003_LoginDDT *****
+2024-11-20 19:21:06 DEBUG TestNG:82 - suiteXmlPath: "E:\Framework2\TC001_OpenCartTesting\master.xml"
+2024-11-20 19:21:13 INFO  TC001_RegistrationTesting:16 - ******Starting TC001_OpenCartApplication******
+2024-11-20 19:21:13 INFO  TC001_RegistrationTesting:22 - Clicked on Account link
+2024-11-20 19:21:14 INFO  TC001_RegistrationTesting:25 - Clicked on Register link
+2024-11-20 19:21:14 INFO  TC001_RegistrationTesting:29 - Providing customer details...
+2024-11-20 19:21:16 INFO  TC001_RegistrationTesting:43 - Validating expected message
+2024-11-20 19:21:16 INFO  TC001_RegistrationTesting:63 - ****** Finished TC001_OpenCartApplication ******
+2024-11-20 19:21:22 INFO  TC003_LoginTesting:54 - **** Finished TC_003_LoginDDT *****
+2024-11-20 19:31:07 DEBUG TestNG:82 - suiteXmlPath: "E:\Framework2\TC001_OpenCartTesting\master.xml"
